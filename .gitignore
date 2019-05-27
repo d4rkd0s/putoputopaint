@@ -1,11 +1,1 @@
 /node_modules/
-/dist/
-/js/engine/CPBlend2.js
-/js/engine/CPBlend.js
-/resources/css/chickenpaint.css
-/test/blending/bench/blending.js
-/test/blending/compare/blending.js
-/test/integration_test/integration.js
-/.idea
-/coverage
-/test/compare_against_reference/test-images
