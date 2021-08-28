@@ -1,4 +1,4 @@
-# ChickenPaint
+# PutoPutoPaint! (custom modified Chicken Paint)
 
 ChickenPaint is an HTML5 port of Marc Schefer's excellent multi-layer drawing Oekaki Java applet
 [ChibiPaint](http://www.chibipaint.com/). I decided to port it to JavaScript because Java applet support in browsers 
